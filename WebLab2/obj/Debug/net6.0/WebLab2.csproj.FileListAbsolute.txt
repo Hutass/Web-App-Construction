@@ -1,0 +1,183 @@
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.csproj.AssemblyReference.cache
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.AssemblyInfoInputs.cache
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.AssemblyInfo.cs
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.csproj.CoreCompileInputs.cache
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.MvcApplicationPartsAssemblyInfo.cs
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.MvcApplicationPartsAssemblyInfo.cache
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\appsettings.Development.json
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\appsettings.json
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.exe
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.deps.json
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.runtimeconfig.json
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.pdb
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.WebLab2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebLab2.props
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebLab2.props
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebLab2.props
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\scopedcss\bundle\WebLab2.styles.css
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.csproj.CopyComplete
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\refint\WebLab2.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.pdb
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.genruntimeconfig.cache
+D:\Programs\C#\ASP net\WebLab2\WebLab2\obj\Debug\net6.0\ref\WebLab2.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Humanizer.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.CodeDom.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Azure.Core.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Azure.Identity.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programs\C#\ASP net\WebLab2\WebLab2\bin\Debug\net6.0\.filenesting.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\.filenesting.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\appsettings.Development.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\appsettings.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.exe
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.deps.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.runtimeconfig.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\WebLab2.pdb
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Azure.Core.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Azure.Identity.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Humanizer.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.CodeDom.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Text.Json.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.csproj.AssemblyReference.cache
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.AssemblyInfoInputs.cache
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.AssemblyInfo.cs
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.csproj.CoreCompileInputs.cache
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.MvcApplicationPartsAssemblyInfo.cs
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.MvcApplicationPartsAssemblyInfo.cache
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.WebLab2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebLab2.props
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebLab2.props
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebLab2.props
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\scopedcss\bundle\WebLab2.styles.css
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.csproj.CopyComplete
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\refint\WebLab2.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.pdb
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\WebLab2.genruntimeconfig.cache
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\obj\Debug\net6.0\ref\WebLab2.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+D:\Programs\C#\ASPnet\WebLab2\WebLab2\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
